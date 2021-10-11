@@ -2,10 +2,9 @@
 
 ---
 
-I'm a 4th year Computer Science BS/MS Student, who's interested in DevOps, HPC, and distributed computing. I love all things optimizations, whether it be developer
-tools or playing nice with the compiler, as well as Free & Open Source software.
+I'm a 4th year Computer Science BS/MS Student, who's interested in DevOps, HPC, and distributed computing. I love all things optimizations, whether it be developer tools or playing nice with the compiler, as well as Free & Open Source software.
 
-- 🌱 I’m currently learning the [Rust programming language](https://www.rust-lang.org/) as well as the [Go programming language](https://golang.org/)
+- 🔭 I’m currently working on developing a novel, hardware-accelerated render platform at [Bolt Graphics, Inc.](https://www.bolt.graphics/the-bolt-platform).
 - 😄 Pronouns: He/Him
 - 📫 How to reach me:
   - ![Twitter Follow](https://img.shields.io/twitter/follow/nbarrios1337?style=social)
