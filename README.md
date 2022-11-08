@@ -8,7 +8,7 @@ I'm a 4th year Computer Science BS/MS Student, who's interested in DevOps, HPC, 
 - 🌱 I’m currently learning Rust via a toy raytracer based on the [Raytracing in One Weekend book series](https://raytracing.github.io/) over at [nbarrios1337/lustre-rs](https://github.com/nbarrios1337/lustre-rs)
 - 😄 Pronouns: He/Him
 - 📫 How to reach me:
-  - ![Twitter Follow](https://img.shields.io/twitter/follow/nbarrios1337?style=social)
+  - <a href="https://twitter.com/intent/follow?screen_name=nbarrios1337"><img src="https://img.shields.io/twitter/follow/nbarrios1337" alt="Twitter Follow"></a>
   - <a href="https://www.linkedin.com/in/nbarrios1337"><img src="https://img.shields.io/badge/Linkedin-Connect-blue?logo=linkedin&style=social" alt="LinkedIn"></a>
   - <a href="https://keybase.io/nbarrios"><img src="https://img.shields.io/badge/Keybase-Follow-blue?logo=keybase&style=social" alt="Keybase"></a>
 
