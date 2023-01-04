@@ -9,8 +9,10 @@ I'm a 4th year Computer Science BS/MS Student, who's interested in DevOps, HPC, 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me:
   - <a href="https://twitter.com/intent/follow?screen_name=nbarrios1337"><img src="https://img.shields.io/twitter/follow/nbarrios1337" alt="Twitter Follow"></a>
+  - <a rel="me" href="https://mastodon.gamedev.place/@chromatic"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109374292047093547?domain=https%3A%2F%2Fmastodon.gamedev.place%2F&style=social"></a>
   - <a href="https://www.linkedin.com/in/nbarrios1337"><img src="https://img.shields.io/badge/Linkedin-Connect-blue?logo=linkedin&style=social" alt="LinkedIn"></a>
   - <a href="https://keybase.io/nbarrios"><img src="https://img.shields.io/badge/Keybase-Follow-blue?logo=keybase&style=social" alt="Keybase"></a>
+
 
 <!--
 **nbarrios1337/nbarrios1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
