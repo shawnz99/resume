@@ -5,7 +5,7 @@
 I'm a 4th year Computer Science BS/MS Student, who's interested in DevOps, HPC, and distributed computing. I love all things optimizations, whether it be developer tools or playing nice with the compiler, as well as Free & Open Source software.
 
 - 🔭 I’m currently working on developing a novel, hardware-accelerated render platform at [Bolt Graphics, Inc.](https://www.bolt.graphics/about).
-- 🌱 I’m currently learning Rust via a toy raytracer based on the [Raytracing in One Weekend book series](https://raytracing.github.io/) over at [nbarrios1337/lustre-rs](https://github.com/nbarrios1337/lustre-rs)
+- 🌱 I’m currently learning Rust :crab:	<!-- via a toy raytracer based on the [Raytracing in One Weekend book series](https://raytracing.github.io/) over at [nbarrios1337/lustre-rs](https://github.com/nbarrios1337/lustre-rs) -->
 - 😄 Pronouns: He/Him
 - 📫 How to reach me:
   - <a href="https://twitter.com/nbarrios1337"><img src="https://img.shields.io/twitter/follow/nbarrios1337" alt="Twitter Follow"></a>
