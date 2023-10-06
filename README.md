@@ -1,17 +1,13 @@
-### Hello, world! I'm Nicolas Barrios 👋
+### Hello, world! I'm Shawn Zimmermann   👋
 
 ---
 
-I'm a 4th year Computer Science BS/MS Student, who's interested in DevOps, HPC, and distributed computing. I love all things optimizations, whether it be developer tools or playing nice with the compiler, as well as Free & Open Source software.
+I'm a 5th year Computer Science BS/MS Student, who's interested in distributed computing and Networking. 
 
-- 🔭 I’m currently working on developing a novel, hardware-accelerated render platform at [Bolt Graphics, Inc.](https://www.bolt.graphics/about).
-- 🌱 I’m currently learning Rust :crab:	<!-- via a toy raytracer based on the [Raytracing in One Weekend book series](https://raytracing.github.io/) over at [nbarrios1337/lustre-rs](https://github.com/nbarrios1337/lustre-rs) -->
+- 🔭 I’m currently working on distributed systems research.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me:
-  - <a href="https://twitter.com/nbarrios1337"><img src="https://img.shields.io/twitter/follow/nbarrios1337" alt="Twitter Follow"></a>
-  - <a rel="me" href="https://mastodon.gamedev.place/@chromatic"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109374292047093547?domain=https%3A%2F%2Fmastodon.gamedev.place%2F&style=social"></a>
-  - <a href="https://www.linkedin.com/in/nbarrios1337"><img src="https://img.shields.io/badge/Linkedin-Connect-blue?logo=linkedin&style=social" alt="LinkedIn"></a>
-  - <a href="https://keybase.io/nbarrios"><img src="https://img.shields.io/badge/Keybase-Follow-blue?logo=keybase&style=social" alt="Keybase"></a>
+  - <a href="https://www.linkedin.com/in/shawnzimmermann"><img src="https://img.shields.io/badge/Linkedin-Connect-blue?logo=linkedin&style=social" alt="LinkedIn"></a>
 
 
 <!--
