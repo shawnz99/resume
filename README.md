@@ -2,13 +2,13 @@
 
 ---
 
-I'm a 5th year Computer Science BS/MS Student, who's interested in distributed computing and Networking. 
+I'm a Computer Science PhD Student, working on distributed computing. 
 
 - 🔭 I’m currently working on distributed systems research.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me:
   - <a href="https://www.linkedin.com/in/shawnzimmermann"><img src="https://img.shields.io/badge/Linkedin-Connect-blue?logo=linkedin&style=social" alt="LinkedIn"></a>
-
+  - <a href="https://cse.buffalo.edu/~zimmerm3/">
 
 <!--
 **nbarrios1337/nbarrios1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
