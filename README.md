@@ -8,7 +8,7 @@ I'm a Computer Science PhD Student, working on distributed computing.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me:
   - <a href="https://www.linkedin.com/in/shawnzimmermann"><img src="https://img.shields.io/badge/Linkedin-Connect-blue?logo=linkedin&style=social" alt="LinkedIn"></a>
-  - <a href="https://cse.buffalo.edu/~zimmerm3/">
+  - <a href="https://cse.buffalo.edu/~zimmerm3/"><img src="https://img.shields.io/badge/Website-blue"></a>
 
 <!--
 **nbarrios1337/nbarrios1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
